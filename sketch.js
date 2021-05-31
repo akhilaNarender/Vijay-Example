@@ -12,6 +12,14 @@ var score=0;
 
 var gameOver, restart;
 
+
+
+
+
+
+
+
+
 localStorage["HighestScore"] = 0;
 
 function preload(){
